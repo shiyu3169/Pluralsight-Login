@@ -82,6 +82,21 @@ h6 {
   width: 100%;
 }
 
+#signin .secondary-btn,
+.or,
+.links {
+  width: 60%;
+}
+
+#signin .links a {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 1rem;
+  display: block;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
 /* Button */
 .primary-btn {
   padding: 0.7rem 1rem;
