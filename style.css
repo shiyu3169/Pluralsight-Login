@@ -116,6 +116,28 @@ h6 {
   padding: 0 0.8rem;
 }
 
+/* Showcase */
+#showcase {
+  background: url('./img/login-bg.jpg') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#showcase .showcase-text {
+  font-size: 3rem;
+  width: 100%;
+  color: #fff;
+  margin-bottom: 1.5rem;
+}
+
+#showcase .secondary-btn {
+  width: 60%;
+  margin: auto;
+}
+
 /* Footer */
 #main-footer {
   color: #ccc;
